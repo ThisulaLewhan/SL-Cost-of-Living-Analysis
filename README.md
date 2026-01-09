@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lanka Cost of Living Analysis
+# Sri Lanka Cost of Living Analysis
 
 ## 📌 Project Overview
 This project analyzes the trend of the **cost of living in Sri Lanka** over recent years using officially published economic indicators. The objective is to understand how changes in **inflation, fuel prices, and exchange rates** have impacted the overall cost of living and household affordability.
